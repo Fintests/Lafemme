@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="bergen.maritime" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>BergenMaritime</name>
+    <description>
+        Webpage as an app
+    </description>
+    <author email="espen@medialog.no" href="http://www.medialog.no">
+        Grieg Medialog AS
+    </author>
+    <content src="http://maritime.medialog.no" />
+    <access origin="http://maritime.medialog.no" />
+</widget>
