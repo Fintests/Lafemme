@@ -1,0 +1,15 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "0.0.1",
+    "name": "Bergen og Årstad kulturkontor",
+    "pkgName": "bergen.maritime",
+    "description": "Webpage as an app",
+    "developer": {
+        "name": "Grieg Medialog AS",
+        "url": "http://www.medialog.no"
+    },
+    "icons": {}
+}

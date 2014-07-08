@@ -1,0 +1,191 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'cordovacordova',
+1 verbose cli   'platform',
+1 verbose cli   'add',
+1 verbose cli   'android' ]
+2 info using npm@1.4.14
+3 info using node@v0.10.29
+4 verbose cache add [ 'cordovacordova', null ]
+5 verbose cache add name=undefined spec="cordovacordova" args=["cordovacordova",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'cordovacordova',
+6 verbose parsed url   path: 'cordovacordova',
+6 verbose parsed url   href: 'cordovacordova' }
+7 verbose cache add [ 'platform', null ]
+8 verbose cache add name=undefined spec="platform" args=["platform",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: 'platform',
+9 verbose parsed url   path: 'platform',
+9 verbose parsed url   href: 'platform' }
+10 verbose cache add [ 'add', null ]
+11 verbose cache add name=undefined spec="add" args=["add",null]
+12 verbose parsed url { protocol: null,
+12 verbose parsed url   slashes: null,
+12 verbose parsed url   auth: null,
+12 verbose parsed url   host: null,
+12 verbose parsed url   port: null,
+12 verbose parsed url   hostname: null,
+12 verbose parsed url   hash: null,
+12 verbose parsed url   search: null,
+12 verbose parsed url   query: null,
+12 verbose parsed url   pathname: 'add',
+12 verbose parsed url   path: 'add',
+12 verbose parsed url   href: 'add' }
+13 verbose cache add [ 'android', null ]
+14 verbose cache add name=undefined spec="android" args=["android",null]
+15 verbose parsed url { protocol: null,
+15 verbose parsed url   slashes: null,
+15 verbose parsed url   auth: null,
+15 verbose parsed url   host: null,
+15 verbose parsed url   port: null,
+15 verbose parsed url   hostname: null,
+15 verbose parsed url   hash: null,
+15 verbose parsed url   search: null,
+15 verbose parsed url   query: null,
+15 verbose parsed url   pathname: 'android',
+15 verbose parsed url   path: 'android',
+15 verbose parsed url   href: 'android' }
+16 silly lockFile 8b34d2a5-cordovacordova cordovacordova
+17 verbose lock cordovacordova /Users/griegmedialog/.npm/8b34d2a5-cordovacordova.lock
+18 silly lockFile 3c72abbe-platform platform
+19 verbose lock platform /Users/griegmedialog/.npm/3c72abbe-platform.lock
+20 silly lockFile 58d1bbce-add add
+21 verbose lock add /Users/griegmedialog/.npm/58d1bbce-add.lock
+22 silly lockFile e4bbe5b7-android android
+23 verbose lock android /Users/griegmedialog/.npm/e4bbe5b7-android.lock
+24 silly lockFile 8b34d2a5-cordovacordova cordovacordova
+25 silly lockFile 8b34d2a5-cordovacordova cordovacordova
+26 silly lockFile 3c72abbe-platform platform
+27 silly lockFile 3c72abbe-platform platform
+28 silly lockFile e4bbe5b7-android android
+29 silly lockFile e4bbe5b7-android android
+30 silly lockFile 58d1bbce-add add
+31 silly lockFile 58d1bbce-add add
+32 verbose addNamed [ 'cordovacordova', '' ]
+33 verbose addNamed [ null, '*' ]
+34 silly lockFile 8a135bb8-cordovacordova cordovacordova@
+35 verbose lock cordovacordova@ /Users/griegmedialog/.npm/8a135bb8-cordovacordova.lock
+36 verbose addNamed [ 'platform', '' ]
+37 verbose addNamed [ null, '*' ]
+38 silly lockFile e104e440-platform platform@
+39 verbose lock platform@ /Users/griegmedialog/.npm/e104e440-platform.lock
+40 verbose addNamed [ 'android', '' ]
+41 verbose addNamed [ null, '*' ]
+42 silly lockFile 0c7aa45d-android android@
+43 verbose lock android@ /Users/griegmedialog/.npm/0c7aa45d-android.lock
+44 verbose addNamed [ 'add', '' ]
+45 verbose addNamed [ null, '*' ]
+46 silly lockFile 024f5563-add add@
+47 verbose lock add@ /Users/griegmedialog/.npm/024f5563-add.lock
+48 silly addNameRange { name: 'cordovacordova', range: '*', hasData: false }
+49 silly addNameRange { name: 'platform', range: '*', hasData: false }
+50 silly addNameRange { name: 'android', range: '*', hasData: false }
+51 verbose url raw cordovacordova
+52 verbose url resolving [ 'https://registry.npmjs.org/', './cordovacordova' ]
+53 verbose url resolved https://registry.npmjs.org/cordovacordova
+54 info trying registry request attempt 1 at 23:00:19
+55 http GET https://registry.npmjs.org/cordovacordova
+56 silly addNameRange { name: 'add', range: '*', hasData: false }
+57 verbose registry.get platform not expired, no request
+58 silly addNameRange number 2 { name: 'platform', range: '*', hasData: true }
+59 silly addNameRange versions [ 'platform',
+59 silly addNameRange   [ '0.1.337',
+59 silly addNameRange     '0.2.0',
+59 silly addNameRange     '0.3.0',
+59 silly addNameRange     '0.3.1',
+59 silly addNameRange     '0.4.0',
+59 silly addNameRange     '1.0.0',
+59 silly addNameRange     '1.1.0',
+59 silly addNameRange     '1.2.0' ] ]
+60 verbose addNamed [ 'platform', '1.2.0' ]
+61 verbose addNamed [ '1.2.0', '1.2.0' ]
+62 silly lockFile fbb073db-platform-1-2-0 platform@1.2.0
+63 verbose lock platform@1.2.0 /Users/griegmedialog/.npm/fbb073db-platform-1-2-0.lock
+64 verbose url raw android
+65 verbose url resolving [ 'https://registry.npmjs.org/', './android' ]
+66 verbose url resolved https://registry.npmjs.org/android
+67 info trying registry request attempt 1 at 23:00:19
+68 verbose etag "4VZ540I4EVWP5HI92B1843KMR"
+69 http GET https://registry.npmjs.org/android
+70 verbose registry.get add not expired, no request
+71 silly addNameRange number 2 { name: 'add', range: '*', hasData: true }
+72 silly addNameRange versions [ 'add',
+72 silly addNameRange   [ '1.0.0', '2.0.0', '2.0.1', '2.0.2', '2.0.4', '2.0.5' ] ]
+73 verbose addNamed [ 'add', '2.0.5' ]
+74 verbose addNamed [ '2.0.5', '2.0.5' ]
+75 silly lockFile c30361fc-add-2-0-5 add@2.0.5
+76 verbose lock add@2.0.5 /Users/griegmedialog/.npm/c30361fc-add-2-0-5.lock
+77 silly lockFile fbb073db-platform-1-2-0 platform@1.2.0
+78 silly lockFile fbb073db-platform-1-2-0 platform@1.2.0
+79 silly lockFile e104e440-platform platform@
+80 silly lockFile e104e440-platform platform@
+81 silly lockFile c30361fc-add-2-0-5 add@2.0.5
+82 silly lockFile c30361fc-add-2-0-5 add@2.0.5
+83 silly lockFile 024f5563-add add@
+84 silly lockFile 024f5563-add add@
+85 http 404 https://registry.npmjs.org/cordovacordova
+86 verbose headers { date: 'Sat, 05 Jul 2014 21:00:18 GMT',
+86 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+86 verbose headers   'content-type': 'application/json',
+86 verbose headers   'cache-control': 'max-age=0',
+86 verbose headers   'content-length': '52',
+86 verbose headers   'accept-ranges': 'bytes',
+86 verbose headers   via: '1.1 varnish',
+86 verbose headers   age: '0',
+86 verbose headers   'x-served-by': 'cache-fra1228-FRA',
+86 verbose headers   'x-cache': 'MISS',
+86 verbose headers   'x-cache-hits': '0',
+86 verbose headers   'x-timer': 'S1404594018.593815,VS0,VE106',
+86 verbose headers   'keep-alive': 'timeout=10, max=50',
+86 verbose headers   connection: 'Keep-Alive' }
+87 silly registry.get cb [ 404,
+87 silly registry.get   { date: 'Sat, 05 Jul 2014 21:00:18 GMT',
+87 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+87 silly registry.get     'content-type': 'application/json',
+87 silly registry.get     'cache-control': 'max-age=0',
+87 silly registry.get     'content-length': '52',
+87 silly registry.get     'accept-ranges': 'bytes',
+87 silly registry.get     via: '1.1 varnish',
+87 silly registry.get     age: '0',
+87 silly registry.get     'x-served-by': 'cache-fra1228-FRA',
+87 silly registry.get     'x-cache': 'MISS',
+87 silly registry.get     'x-cache-hits': '0',
+87 silly registry.get     'x-timer': 'S1404594018.593815,VS0,VE106',
+87 silly registry.get     'keep-alive': 'timeout=10, max=50',
+87 silly registry.get     connection: 'Keep-Alive' } ]
+88 silly lockFile 8a135bb8-cordovacordova cordovacordova@
+89 silly lockFile 8a135bb8-cordovacordova cordovacordova@
+90 error 404 404 Not Found: cordovacordova
+90 error 404
+90 error 404 'cordovacordova' is not in the npm registry.
+90 error 404 You should bug the author to publish it
+90 error 404
+90 error 404 Note that you can also install from a
+90 error 404 tarball, folder, or http url, or git url.
+91 error System Darwin 13.2.0
+92 error command "node" "/usr/local/bin/npm" "install" "-g" "cordovacordova" "platform" "add" "android"
+93 error cwd /Users/griegmedialog/Test-Website-as-an-APP
+94 error node -v v0.10.29
+95 error npm -v 1.4.14
+96 error code E404
+97 verbose exit [ 1, true ]

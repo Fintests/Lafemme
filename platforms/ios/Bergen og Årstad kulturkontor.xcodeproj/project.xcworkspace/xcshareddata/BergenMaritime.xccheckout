@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8DD36E67-F715-4E83-BE70-A6798C587DF6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BergenMaritime</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF2D31E5-1B77-4C8D-AB56-566A831152A5</key>
+		<string>https://github.com/espenmn/Test-Website-as-an-APP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/BergenMaritime.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF2D31E5-1B77-4C8D-AB56-566A831152A5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/espenmn/Test-Website-as-an-APP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF2D31E5-1B77-4C8D-AB56-566A831152A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF2D31E5-1B77-4C8D-AB56-566A831152A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Test-Website-as-an-APP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
