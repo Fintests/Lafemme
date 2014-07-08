@@ -12,6 +12,6 @@
     <author email="espen@medialog.no" href="http://www.medialog.no">
         Grieg Medialog AS
     </author>
-    <content src="http://as.medialog.no" />
-    <access origin="http://as.medialog.no" />
+    <content src="http://mobil.medialog.no" />
+    <access origin="http://mobil.medialog.no" />
 </widget>
