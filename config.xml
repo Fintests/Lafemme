@@ -9,4 +9,5 @@
     </author>
     <content src="http://lafemmecollectie.nl" />
     <access origin="http://lafemmecollectie.nl" />
+     <icon src="images/logo/icon.png" />
 </widget>
