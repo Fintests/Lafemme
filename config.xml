@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="bergen.maritime" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Bergen og Årstad kulturkontor</name>
+    <name>Welkom</name>
     <description>
-        Webpage as an app
+        Damesmode
     </description>
-    <author email="espen@medialog.no" href="http://www.medialog.no">
+    <author email="rkammyte@gmail.com" href="http://www.medialog.no">
         Grieg Medialog AS
     </author>
-    <content src="http://mobil.medialog.no" />
-    <access origin="http://mobil.medialog.no" />
+    <content src="http://lafammecollectie.nl" />
+    <access origin="http://lafammecollectie.nl" />
 </widget>
