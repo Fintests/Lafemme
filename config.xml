@@ -5,8 +5,8 @@
         Damesmode
     </description>
     <author email="rkammyte@gmail.com" href="http://www.medialog.no">
-        Grieg Medialog AS
+        Damesmode
     </author>
-    <content src="http://lafammecollectie.nl" />
-    <access origin="http://lafammecollectie.nl" />
+    <content src="http://lafemmecollectie.nl" />
+    <access origin="http://lafemmecollectie.nl" />
 </widget>
